@@ -1,4 +1,4 @@
-<h1 align="center">Phot Gallery</h1>
+<h1 align="center">Photo Gallery</h1>
 
 <div align="center">
    Solution for a challenge from  (New) Responsive Web Desing <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp.org</a>.
@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1">
+    <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1">
       Challenge
     </a>
   </h3>
@@ -20,7 +20,7 @@
 
 ## Overview
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94694810/174920821-48f8942d-cb8f-4632-88a6-4c5567ebb985.png">
+<img src="https://user-images.githubusercontent.com/94694810/175463803-dec80fcc-931a-476d-937e-adc47177a5d9.png">
 </div>
 
 
